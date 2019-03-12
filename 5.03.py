@@ -58,5 +58,5 @@ if a>0:
     print('punkt po prawej stronie')
 if a<0:
     print('punkt po lewej stronie')
-if a==0:
+if a==5:
     print('punkt współliniowy')
