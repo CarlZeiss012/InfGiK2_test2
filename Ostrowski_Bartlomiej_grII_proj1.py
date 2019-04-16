@@ -11,7 +11,7 @@ class AppWindow(QWidget):
         self.title = "matplotlib example"
         self.col1='r'
         self.col2='orange'
-        self.col3='pink'
+
         self.initInterface()
         self.initWidgets()
     
